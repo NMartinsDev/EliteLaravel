@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace EliteLaravel\Http\Controllers;
 
-use App\Http\Requests;
+use EliteLaravel\Http\Requests;
 use Illuminate\Http\Request;
 
 class HomeController extends Controller

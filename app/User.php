@@ -4,6 +4,10 @@ namespace EliteLaravel;
 
 use Illuminate\Foundation\Auth\User as Authenticatable;
 
+/**
+ * EliteLaravel\User
+ *
+ */
 class User extends Authenticatable
 {
     /**
