@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace EliteLaravel\Events;
 
 abstract class Event
 {

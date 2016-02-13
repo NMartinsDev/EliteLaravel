@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace EliteLaravel\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
